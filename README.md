@@ -9,8 +9,9 @@ Secrets is a web application where users can register and login to share their s
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 - [Additional Information](#additional-information)
+- [Contribution](#contribution)
 
-## Installation
+## Installation and SetUp
 
 1. Clone the repository:
     ```bash
