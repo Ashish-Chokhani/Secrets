@@ -99,5 +99,6 @@ CLIENT_SECRET=your-google-client-secret
 
 Make sure you have MongoDB installed and running on your local machine. You can download it from the [official website](https://www.mongodb.com/try/download/community).
 
-
+### Contribution
+We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
 
