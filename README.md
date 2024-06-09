@@ -94,7 +94,7 @@ CLIENT_SECRET=your-google-client-secret
 1. Go to the [Google Developers Console](https://console.developers.google.com/).
 2. Create a new project.
 3. Under "Credentials", create an OAuth 2.0 Client ID.
-4. Add `http://localhost:3000/auth/google/secrets` as an authorized redirect URI.
+4. Add `http://localhost:3000/auth/google/Secrets` as an authorized redirect URI.
 
 ### MongoDB Setup
 
