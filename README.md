@@ -15,8 +15,8 @@ Secrets is a web application where users can register and login to share their s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ashish-Chokhani/secrets-app.git
-    cd secrets-app
+    git clone https://github.com/Ashish-Chokhani/Secrets.git
+    cd Secrets
     ```
 
 2. Install dependencies:
